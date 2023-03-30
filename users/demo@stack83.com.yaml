@@ -1,3 +1,5 @@
 name: 'Demo User'
-id: 15806f7d-595e-47a0-a648-ec4506b5f6df
-password_hash: $2y$10$T4GS8O85GCp8qfGleHJr3u.11kwYlLwZ.uG.uxfPQc87LjNTS54tq
+roles:
+  - editor
+id: 7fc2e4ac-63dc-47e4-8ed2-89db18fb2ce0
+password_hash: $2y$10$UlJw335I9.nWhucv2plOWODUhDPeYRZC120oWwHnboA0aEqF.udAm
