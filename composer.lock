@@ -5222,12 +5222,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stack83com/statamic-chatgpt-integration.git",
-                "reference": "6f947403178d0edde70f6fd7c005d0f8c470d936"
+                "reference": "89e8f24ea50987c1d3fcb825dd23a721e73cbf3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stack83com/statamic-chatgpt-integration/zipball/6f947403178d0edde70f6fd7c005d0f8c470d936",
-                "reference": "6f947403178d0edde70f6fd7c005d0f8c470d936",
+                "url": "https://api.github.com/repos/stack83com/statamic-chatgpt-integration/zipball/89e8f24ea50987c1d3fcb825dd23a721e73cbf3f",
+                "reference": "89e8f24ea50987c1d3fcb825dd23a721e73cbf3f",
                 "shasum": ""
             },
             "require": {
@@ -5248,7 +5248,7 @@
                     "name": "Statamic ChatGPT Integration",
                     "slug": "chatgpt-integration",
                     "description": "Where ChatGPT meets Statamic",
-                    "version": "1.0.0"
+                    "version": "1.0.1"
                 }
             },
             "autoload": {
@@ -5277,7 +5277,7 @@
                 "source": "https://github.com/stack83com/statamic-chatgpt-integration/tree/main",
                 "issues": "https://github.com/stack83com/statamic-chatgpt-integration/issues"
             },
-            "time": "2023-08-03T04:21:53+00:00"
+            "time": "2023-08-03T06:50:46+00:00"
         },
         {
             "name": "statamic/cms",
