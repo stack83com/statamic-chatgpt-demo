@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c382eaa071487b128c84a74bd5b6d950",
+    "content-hash": "e4285e260e034d9b8fe152c16c512192",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -2986,16 +2986,16 @@
         },
         {
             "name": "league/mime-type-detection",
-            "version": "1.11.0",
+            "version": "1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/mime-type-detection.git",
-                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd"
+                "reference": "c7f2872fb273bf493811473dafc88d60ae829f48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
-                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
+                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/c7f2872fb273bf493811473dafc88d60ae829f48",
+                "reference": "c7f2872fb273bf493811473dafc88d60ae829f48",
                 "shasum": ""
             },
             "require": {
@@ -3026,7 +3026,7 @@
             "description": "Mime-type detection for Flysystem",
             "support": {
                 "issues": "https://github.com/thephpleague/mime-type-detection/issues",
-                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.11.0"
+                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.12.0"
             },
             "funding": [
                 {
@@ -3038,7 +3038,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-17T13:12:02+00:00"
+            "time": "2023-08-03T07:14:11+00:00"
         },
         {
             "name": "maennchen/zipstream-php",
@@ -5177,16 +5177,16 @@
         },
         {
             "name": "stack83com/statamic-chatgpt-integration",
-            "version": "dev-main",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stack83com/statamic-chatgpt-integration.git",
-                "reference": "89e8f24ea50987c1d3fcb825dd23a721e73cbf3f"
+                "reference": "99a17306c7f75c4c69813d2a23700e00024ef487"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stack83com/statamic-chatgpt-integration/zipball/89e8f24ea50987c1d3fcb825dd23a721e73cbf3f",
-                "reference": "89e8f24ea50987c1d3fcb825dd23a721e73cbf3f",
+                "url": "https://api.github.com/repos/stack83com/statamic-chatgpt-integration/zipball/99a17306c7f75c4c69813d2a23700e00024ef487",
+                "reference": "99a17306c7f75c4c69813d2a23700e00024ef487",
                 "shasum": ""
             },
             "require": {
@@ -5195,7 +5195,6 @@
             "require-dev": {
                 "roave/security-advisories": "dev-latest"
             },
-            "default-branch": true,
             "type": "statamic-addon",
             "extra": {
                 "laravel": {
@@ -5207,7 +5206,7 @@
                     "name": "Statamic ChatGPT Integration",
                     "slug": "chatgpt-integration",
                     "description": "Where ChatGPT meets Statamic",
-                    "version": "1.0.1"
+                    "version": "1.0.2"
                 }
             },
             "autoload": {
@@ -5233,10 +5232,10 @@
                 "Statamic"
             ],
             "support": {
-                "source": "https://github.com/stack83com/statamic-chatgpt-integration/tree/main",
+                "source": "https://github.com/stack83com/statamic-chatgpt-integration/tree/v1.0.2",
                 "issues": "https://github.com/stack83com/statamic-chatgpt-integration/issues"
             },
-            "time": "2023-08-03T06:50:46+00:00"
+            "time": "2023-08-03T11:14:58+00:00"
         },
         {
             "name": "statamic/cms",
